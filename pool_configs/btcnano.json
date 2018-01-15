@@ -37,8 +37,8 @@
         "daemon": {
             "host": "127.0.0.1",
             "port": 9657,
-            "user": "tanshuang",
-            "password": "tan07060112"
+            "user": "Your rpcuser",
+            "password": "Your password"
         }
     },
 
